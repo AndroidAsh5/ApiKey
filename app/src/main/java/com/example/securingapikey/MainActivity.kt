@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
 //        val key1: String = String(Base64.decode(getNativeKey1(), Base64.DEFAULT))
         Log.i("secretKeys",getNativeKey1()!!)
         Log.i("secretKeys",getNativeKey2()!!)
+        Log.i("add files--",getNativeKey2()!!)
 
     }
 
